@@ -1,0 +1,11 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          { "type": "command", "command": "say \"작업이 완료되었습니다\"" }
+        ]
+      }
+    ]
+  }
+}
